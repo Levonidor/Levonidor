@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **lvb.korobkov@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bani2016up&show_icons=true&locale=en&layout=compact" alt="bani2016up" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=levonidor&show_icons=true&locale=en&layout=compact" alt="levonidor" /></p>
