@@ -6,5 +6,3 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Levonidor](https://github.com/Levonidor)
 
 - 📫 How to reach me **lvb.korobkov@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=levonidor&show_icons=true&locale=en&layout=compact" alt="levonidor" /></p>
